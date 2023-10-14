@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian, a software developer in Chicago!
-- 🌱 I’m currently working with React JS, MongoDB, Express, Node, Handlebars, and more!
-- 💞️ I’m looking to collaborate on React Native projects!
+- 🌱 I’m currently working with Flutter, Python, Firebase, Google Cloud, React JS, MongoDB, Express, Node, Handlebars, and more!
+- 💞️ I’m looking to collaborate on Flutter and React Native projects!
 - 📫 How to reach me: send me an email! brian.david.burns@gmail.com
 
 <!---
